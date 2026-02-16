@@ -2,11 +2,11 @@
 import { defineConfig } from 'astro/config';
 
 import react from '@astrojs/react';
-import edgeoneAdapter from '@edgeone/astro';
 
 // https://astro.build/config
 export default defineConfig({
-  adapter: edgeoneAdapter(),
+  site: 'https://JSerranoD57.github.io',
+  base: '/JSerranoD57.github.io/',
   output: 'static',
   integrations: [react()]
 });
