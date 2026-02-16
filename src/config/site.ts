@@ -83,7 +83,7 @@ export const siteConfig = {
     ],
     github: {
       text: "Star this project on Github",
-      url: "https://github.com/tomcomtang/astro-cartoon-portfolio",
+      url: "https://github.com/JSerranoD57/JSerranoD57.github.io",
     },
   },
   
